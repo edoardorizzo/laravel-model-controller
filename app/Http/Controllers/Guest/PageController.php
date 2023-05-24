@@ -3,7 +3,7 @@
 namespace App\Http\Controllers\Guest;
 
 use App\Http\Controllers\Controller;
-use App\Models\Movie;
+use App\Movie;
 
 class PageController extends Controller
 {
